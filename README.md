@@ -3,7 +3,7 @@
 🎯 **Aspiring Cybersecurity Professional | Penetration Testing & Vulnerability Assessment Enthusiast**  
 🔐 Focused on building practical skills in **Web Application Security, Network Pentesting, and Incident Analysis**.  
 🧩 Currently exploring **TryHackMe**, **Hack The Box**, and **PortSwigger Labs** to strengthen my offensive security foundation.  
-📚 Preparing for **Certified Ethical Hacker (CEH)** while working on real-world lab challenges and CTFs.  
+📚 Preparing for **(CPTS,OSCP)** while working on real-world lab challenges and CTFs.  
 
 ---
 
