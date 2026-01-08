@@ -52,7 +52,7 @@
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=ShreekaraKedlaya&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=transparent&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=transparent&hide_border=true&layout=compact)
 
