@@ -35,7 +35,7 @@ Aspiring Cybersecurity Professional | Penetration Testing & Web Security
 
 ### 🛠️ Languages & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,sql" />
+  <img src="https://skillicons.dev/icons?i=python,bash,c" />
 </p>
 
 ---
@@ -75,10 +75,12 @@ Aspiring Cybersecurity Professional | Penetration Testing & Web Security
 
 ### 🖥️ Platforms / Operating Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,arch,fedora" />
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot%20OS-1F8ACB?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20(Anarchy)-1793D1?logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
 </p>
 
@@ -96,5 +98,3 @@ Aspiring Cybersecurity Professional | Penetration Testing & Web Security
   <img src="https://github-readme-stats.vercel.app/api?username=ShreekaraKedlaya&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreekaraKedlaya&theme=transparent&hide_border=true" />
 </p>
-
----
