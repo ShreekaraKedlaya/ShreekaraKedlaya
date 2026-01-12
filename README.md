@@ -14,7 +14,7 @@ Aspiring Cybersecurity Professional | Penetration Testing & Web Security
 - 🔐 Interested in **Offensive Security & Vulnerability Research**
 - 🧪 Hands-on with **CTFs, Labs, and Realistic Attack Scenarios**
 - 🌐 Focused on **Web App Pentesting, Enumeration & Privilege Escalation**
-- 📚 Preparing for **CPTS → OSCP**
+- 📚 Preparing for **CPTS,CWES → OSCP**
 
 ---
 
