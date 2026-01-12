@@ -86,15 +86,3 @@ Aspiring Cybersecurity Professional | Penetration Testing & Web Security
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShreekaraKedlaya&theme=matrix&no-frame=true&row=1" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreekaraKedlaya&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreekaraKedlaya&theme=transparent&hide_border=true" />
-</p>
